@@ -32,7 +32,7 @@ include: ["Personal"]
 
  - [x] 옵시디언 자료 백업   \\ [link](https://todoist.com/showTask?id=7633224944) #todoist %%[todoist_id:: 7633224944]%% 
 
-- [x] 테스트 #Developments #해야할일  [link](https://todoist.com/showTask?id=7633260199) #todoist  %%[todoist_id:: 7633260199]%%
+- [x] 테스트 #Developments  [link](https://todoist.com/showTask?id=7633260199) #todoist  %%[todoist_id:: 7633260199]%%
 
 - [x] 테스트 #Developments [link](https://todoist.com/showTask?id=7633269140) #todoist  %%[todoist_id:: 7633269140]%%
 	- [x] 하위 할일 [link](https://todoist.com/showTask?id=7633273088) #todoist  %%[todoist_id:: 7633273088]%%

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. Daily Notes/ Week 3.md",
+                "file": "02. Files manager/Template/Google Calendar_명령어 예시.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#todoist",
+                "query": "tag:#해야할일",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -86,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "02. Files manager/Template/Google Calendar_명령어 예시.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "02. Files manager/Template/Google Calendar_명령어 예시.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "02. Files manager/Template/Google Calendar_명령어 예시.md"
+              }
             }
           },
           {
@@ -135,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       },
       {
         "id": "6d83c511818695dc",
@@ -198,15 +203,15 @@
       "obsidian-custom-frames:Open Todoist": false
     }
   },
-  "active": "61ab3d7dbacf608e",
+  "active": "4ee5bead6970a394",
   "lastOpenFiles": [
+    "02. Files manager/Template/Google Calendar_명령어 예시.md",
     "00. New Note/ㄹㅇㅎㅇㄹㄴㅎ.md",
     "무제 파일.canvas",
     "01. Daily Notes/ Week 3.md",
     "02. Files manager/Attachment File/EEE.md",
     "00. New Note",
     "01. Daily Notes/Interface.md",
-    "02. Files manager/Template/Google Calendar_명령어 예시.md",
     "02. Files manager/Attachment File",
     "02. Files manager/Attachment FileAttachment File.md",
     "04. Algorithm/TroubleShooting.md",
