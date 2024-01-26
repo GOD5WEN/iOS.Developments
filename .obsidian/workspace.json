@@ -11,13 +11,8 @@
             "id": "0b69cfa0610c9835",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03. iOS/3-2. Swift/3-2-1. 문법/02. 기초문법가이드.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03. iOS/3-2. Swift/3-2-1. 문법/02. 기초문법가이드.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03. iOS/3-2. Swift/3-2-1. 문법/02. 기초문법가이드.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "03. iOS/3-2. Swift/3-2-1. 문법/02. 기초문법가이드.md"
-              }
+              "state": {}
             }
           },
           {
@@ -204,10 +195,10 @@
   },
   "active": "0b69cfa0610c9835",
   "lastOpenFiles": [
-    "00. New Note/04. Collection.md",
     "03. iOS/3-2. Swift/3-2-1. 문법/02. 기초문법가이드.md",
-    "00. New Note/Collection.md",
+    "00. New Note/04. Collection.md",
     "00. New Note/03. Data type.md",
+    "00. New Note/Collection.md",
     "03. iOS/3-2. Swift/3-2-1. 문법/01. Standard Library.md",
     "03. iOS/3-2. Swift/3-2-1. 문법/03. 함수.md",
     "03. iOS/3-2. Swift/3-2-1. 문법/Optionals.md",
