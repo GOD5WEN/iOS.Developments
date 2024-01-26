@@ -1,0 +1,247 @@
+{
+  "main": {
+    "id": "5f0414c1d43fa1cd",
+    "type": "split",
+    "children": [
+      {
+        "id": "9207fa3941a0bcea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b69cfa0610c9835",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03. iOS/3-2. Swift/3-2-4. DataBase/내부저장소.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fb63227eab516326",
+    "type": "split",
+    "children": [
+      {
+        "id": "231981867d9dfc69",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0106de08ac6c30aa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4ee5bead6970a394",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#todoist",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0ac7788828f07bba",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9cfd8ea7d043bc06",
+    "type": "split",
+    "children": [
+      {
+        "id": "57bbb937bdb9a6ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "69900d914ff3752f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "03. iOS/3-2. Swift/3-2-4. DataBase/내부저장소.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c03d229ffda7fdc5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "03. iOS/3-2. Swift/3-2-4. DataBase/내부저장소.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b217c4ff82e2eb0d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "59417b17af444284",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "03. iOS/3-2. Swift/3-2-4. DataBase/내부저장소.md"
+              }
+            }
+          },
+          {
+            "id": "24c37f936bfffb43",
+            "type": "leaf",
+            "state": {
+              "type": "google-calendar-view-schedule",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "6d83c511818695dc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a8a4ddfcb93169e7",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "6919b59aab402649",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "855b50138776805f",
+            "type": "leaf",
+            "state": {
+              "type": "google-calendar-view-month",
+              "state": {}
+            }
+          },
+          {
+            "id": "c99bfc165b137808",
+            "type": "leaf",
+            "state": {
+              "type": "google-calendar-view-web",
+              "state": {}
+            }
+          },
+          {
+            "id": "9e1044ae6264eef7",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-todoist",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 462.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "graph:그래프 뷰 열기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-custom-frames:Open Todoist": false
+    }
+  },
+  "active": "0106de08ac6c30aa",
+  "lastOpenFiles": [
+    "10. ETC./README.md",
+    "03. iOS/3-2. Swift/3-2-1. 문법/05. 프로퍼티 옵저버.md",
+    "03. iOS/3-2. Swift/3-2-1. 문법/01. Standard Library.md",
+    "03. iOS/3-2. Swift/3-2-1. 문법/03. 함수.md",
+    "03. iOS/3-2. Swift/3-2-1. 문법/Alert.md",
+    "03. iOS/3-2. Swift/3-2-1. 문법/00. 객체지향 프로그래밍.md",
+    "03. iOS/3-1. Xcode/3-1-1. Interface./02. StoryBoard.md",
+    "03. iOS/3-2. Swift/3-2-3. 네트워크 통신/URL.md",
+    "03. iOS/3-1. Xcode/3-1-1. Interface./01. 용어 정리.md",
+    "03. iOS/3-2. Swift/3-2-3. 네트워크 통신/REST API.md",
+    "03. iOS/3-1. Xcode",
+    "README.md",
+    "03. iOS/3-2. Swift/3-2-1. 문법/02. 기초문법가이드.md",
+    "03. iOS/3-2. Swift/3-2-1. 문법",
+    "10. ETC./iTerm2./설치및설정.md",
+    "10. ETC./GitHub/HowToUse.md",
+    "03. iOS/3-2. Swift/3-2-4. DataBase/내부저장소.md",
+    "03. iOS/3-2. Swift/3-2-2. 메모리/ARC.md",
+    "Xcode/문법/ARC.md",
+    "03. iOS/3-2. Swift/3-2-1. 문법/클로저.md",
+    "04. Algorithm/TroubleShooting.md",
+    "02. Files manager/Template/240125_Templater 플러그인_명령어 예시.md",
+    "01. Daily Notes/ Week 3.md",
+    "03. iOS/3-2. Swift/3-2-1. 문법/Optionals.md",
+    "03. iOS/3-2. Swift/3-2-1. 문법/04. Class & Structure.md",
+    "03. iOS/3-2. Swift",
+    "03. iOS/3-1. Xcode/3-1-1. Interface.",
+    "03. iOS",
+    "01. Daily Notes/컬렉션 뷰 과정(키오스크 팀과제 중).md",
+    "01. Daily Notes/숙련단계 개인과제.md",
+    "01. Daily Notes/Interface.md",
+    "Retrospect/2024.01.02 TIL",
+    "Retrospect",
+    "10. ETC./iTerm2.",
+    "10. ETC./GitHub",
+    "10. ETC.",
+    "무제 파일 2.canvas",
+    "무제 파일.canvas",
+    "무제 파일 1.canvas"
+  ]
+}
