@@ -1,14 +1,56 @@
-타입은 
-#### 1. 문자열
-: String = "ooo"
+> [!check]
+> 데이터 타입은 프로그래밍에서 변수나 상수에 저장될 데이터의 종류를 정의하는 데 사용됩니다. 
+스위프트는 정적 타입 언어이므로 변수나 상수를 선언할 때 해당 데이터 타입을 명시적으로 지정해야 합니다.
 
-#### 2. 정수
-: Int = 20
+#### 1. 문자열
+
+**Strings (문자열):**
+
+- `String`: 문자의 시퀀스, 즉 여러 문자가 결합된 것을 나타냅니다.
+```Swift
+let greeting: String = "안녕하세요!"
+```
+
+#### 2.  문자
+
+**Characters (문자):**
+
+- `Character`: 단일 문자를 나타냅니다.
+```Swift
+let firstLetter: Character = "S"
+```
+
+#### 3. 정수
+
+ **Integers (정수형):** 부호 있는 정수와 부호 없는 정수가 있습니다.
+
+- `Int`: 32비트 또는 64비트 플랫폼에 따라 크기가 달라집니다.
+- `UInt`: 부호 없는 정수로, 양의 정수만 표현합니다.
+```swift
+let intValue: Int = 10
+let uintValue: UInt = 20
+```
 
 #### 3. 실수
+
+**Floating-Point Numbers (부동 소수점 숫자):**
+
+- `Float`: 32비트 부동 소수점 숫자.
+- `Double`: 64비트 부동 소수점 숫자.
+```Swift
+let floatValue: Float = 3.14 
+let doubleValue: Double = 3.14159265359
+```
+
 : Pie = 3.14
 
-#### 4. True/False 참/거짓
-: Bool = True 
+#### 4. Booleans 참/거짓
+
+**Booleans (부울):**
+
+- `Bool`: 참(True) 또는 거짓(False) 값을 나타냅니다.
+```Swift
+let isSwiftFun: Bool = true
+```
 
 (문자열과 다르게 "" 가 없다. 참/거짓 중 하나만 사용한다.)
