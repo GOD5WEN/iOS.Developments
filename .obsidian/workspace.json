@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. Files manager/Template/Google Calendar_명령어 예시.md",
+                "file": "03. iOS/3-2. Swift/3-2-1. 문법/02. 기초문법가이드.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#해야할일",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02. Files manager/Template/Google Calendar_명령어 예시.md",
+                "file": "03. iOS/3-2. Swift/3-2-1. 문법/02. 기초문법가이드.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02. Files manager/Template/Google Calendar_명령어 예시.md",
+                "file": "03. iOS/3-2. Swift/3-2-1. 문법/02. 기초문법가이드.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02. Files manager/Template/Google Calendar_명령어 예시.md"
+                "file": "03. iOS/3-2. Swift/3-2-1. 문법/02. 기초문법가이드.md"
               }
             }
           },
@@ -140,7 +139,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "6d83c511818695dc",
@@ -150,8 +149,13 @@
             "id": "61ab3d7dbacf608e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "00. New Note/데이터 타입.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -203,8 +207,12 @@
       "obsidian-custom-frames:Open Todoist": false
     }
   },
-  "active": "4ee5bead6970a394",
+  "active": "0b69cfa0610c9835",
   "lastOpenFiles": [
+    "00. New Note/데이터 타입.md",
+    "03. iOS/3-2. Swift/3-2-1. 문법/02. 기초문법가이드.md",
+    "03. iOS/3-2. Swift/3-2-1. 문법/01. Standard Library.md",
+    "03. iOS/3-2. Swift/3-2-1. 문법/00. 객체지향 프로그래밍.md",
     "02. Files manager/Template/Google Calendar_명령어 예시.md",
     "00. New Note/ㄹㅇㅎㅇㄹㄴㅎ.md",
     "무제 파일.canvas",
@@ -234,9 +242,6 @@
     "03. iOS/3-2. Swift/3-2-1. 문법/Alert.md",
     "03. iOS/3-2. Swift/3-2-1. 문법/05. 프로퍼티 옵저버.md",
     "03. iOS/3-2. Swift/3-2-1. 문법/04. Class & Structure.md",
-    "03. iOS/3-2. Swift/3-2-1. 문법/03. 함수.md",
-    "03. iOS/3-2. Swift/3-2-1. 문법/01. Standard Library.md",
-    "03. iOS/3-2. Swift/3-2-1. 문법/02. 기초문법가이드.md",
     "03. iOS/3-2. Swift/3-2-4. DataBase",
     "03. iOS/3-2. Swift/3-2-3. 네트워크 통신",
     "03. iOS/3-2. Swift/3-2-2. 메모리",
