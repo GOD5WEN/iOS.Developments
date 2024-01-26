@@ -86,7 +86,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01. Daily Notes/ Week 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01. Daily Notes/ Week 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +123,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "01. Daily Notes/ Week 3.md"
-              }
+              "state": {}
             }
           },
           {
@@ -146,7 +142,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a8a4ddfcb93169e7",
+            "id": "61ab3d7dbacf608e",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -202,8 +198,11 @@
       "obsidian-custom-frames:Open Todoist": false
     }
   },
-  "active": "0b69cfa0610c9835",
+  "active": "61ab3d7dbacf608e",
   "lastOpenFiles": [
+    "00. New Note/ㄹㅇㅎㅇㄹㄴㅎ.md",
+    "무제 파일.canvas",
+    "01. Daily Notes/ Week 3.md",
     "02. Files manager/Attachment File/EEE.md",
     "00. New Note",
     "01. Daily Notes/Interface.md",
@@ -233,14 +232,11 @@
     "03. iOS/3-2. Swift/3-2-1. 문법/03. 함수.md",
     "03. iOS/3-2. Swift/3-2-1. 문법/01. Standard Library.md",
     "03. iOS/3-2. Swift/3-2-1. 문법/02. 기초문법가이드.md",
-    "03. iOS/3-2. Swift/3-2-1. 문법/00. 객체지향 프로그래밍.md",
-    "03. iOS/3-1. Xcode/3-1-1. Interface./02. StoryBoard.md",
     "03. iOS/3-2. Swift/3-2-4. DataBase",
     "03. iOS/3-2. Swift/3-2-3. 네트워크 통신",
     "03. iOS/3-2. Swift/3-2-2. 메모리",
     "03. iOS/3-2. Swift/3-2-1. 문법",
     "무제 파일 2.canvas",
-    "무제 파일.canvas",
     "무제 파일 1.canvas"
   ]
 }
