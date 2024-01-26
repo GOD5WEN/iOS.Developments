@@ -11,8 +11,13 @@
             "id": "0b69cfa0610c9835",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "01. Daily Notes/ Week 3.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "01. Daily Notes/ Week 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "01. Daily Notes/ Week 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "01. Daily Notes/ Week 3.md"
+              }
             }
           },
           {
@@ -195,14 +204,22 @@
   },
   "active": "0b69cfa0610c9835",
   "lastOpenFiles": [
+    "02. Files manager/Attachment File/EEE.md",
+    "00. New Note",
+    "01. Daily Notes/Interface.md",
+    "02. Files manager/Template/Google Calendar_명령어 예시.md",
+    "02. Files manager/Attachment File",
+    "02. Files manager/Attachment FileAttachment File.md",
+    "04. Algorithm/TroubleShooting.md",
     "README.md",
+    "10. ETC./README.md",
+    "01. Daily Notes/컬렉션 뷰 과정(키오스크 팀과제 중).md",
+    "01. Daily Notes/숙련단계 개인과제.md",
     "10. ETC./iTerm2./설치및설정.md",
     "10. ETC./GitHub/HowToUse.md",
     "10. ETC./iTerm2.",
-    "10. ETC./README.md",
     "10. ETC./GitHub",
     "10. ETC.",
-    "04. Algorithm/TroubleShooting.md",
     "04. Algorithm",
     "03. iOS/3-2. Swift/3-2-4. DataBase/내부저장소.md",
     "03. iOS/3-2. Swift/3-2-3. 네트워크 통신/URL.md",
@@ -218,19 +235,10 @@
     "03. iOS/3-2. Swift/3-2-1. 문법/02. 기초문법가이드.md",
     "03. iOS/3-2. Swift/3-2-1. 문법/00. 객체지향 프로그래밍.md",
     "03. iOS/3-1. Xcode/3-1-1. Interface./02. StoryBoard.md",
-    "03. iOS/3-1. Xcode/3-1-1. Interface./01. 용어 정리.md",
     "03. iOS/3-2. Swift/3-2-4. DataBase",
     "03. iOS/3-2. Swift/3-2-3. 네트워크 통신",
     "03. iOS/3-2. Swift/3-2-2. 메모리",
     "03. iOS/3-2. Swift/3-2-1. 문법",
-    "03. iOS/3-1. Xcode/3-1-1. Interface.",
-    "03. iOS/3-2. Swift",
-    "02. Files manager/Template/목적_영화_템플릿 예시.md",
-    "02. Files manager/Template/240125_Templater 플러그인_명령어 예시.md",
-    "02. Files manager/Template/Google Calendar_명령어 예시.md",
-    "01. Daily Notes/컬렉션 뷰 과정(키오스크 팀과제 중).md",
-    "01. Daily Notes/숙련단계 개인과제.md",
-    "01. Daily Notes/Interface.md",
     "무제 파일 2.canvas",
     "무제 파일.canvas",
     "무제 파일 1.canvas"
