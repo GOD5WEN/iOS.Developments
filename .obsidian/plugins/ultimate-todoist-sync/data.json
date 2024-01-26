@@ -64,77 +64,6 @@
     ],
     "tasks": [
       {
-        "id": "7633269140",
-        "assignerId": null,
-        "assigneeId": null,
-        "projectId": "2327534967",
-        "sectionId": "145916834",
-        "parentId": null,
-        "order": 0,
-        "content": "테스트",
-        "description": "[Template/Google Calendar_명령어 예시.md](obsidian://open?vault=Developments&file=Template/Google%20Calendar_%EB%AA%85%EB%A0%B9%EC%96%B4%20%EC%98%88%EC%8B%9C.md)",
-        "isCompleted": true,
-        "labels": [
-          "Developments",
-          "todoist"
-        ],
-        "priority": 1,
-        "commentCount": 0,
-        "creatorId": "47946510",
-        "createdAt": "2024-01-25T22:31:51.554546Z",
-        "due": null,
-        "url": "https://todoist.com/showTask?id=7633269140",
-        "duration": null,
-        "path": "Template/Google Calendar_명령어 예시.md"
-      },
-      {
-        "id": "7633275456",
-        "assignerId": null,
-        "assigneeId": null,
-        "projectId": "2327534967",
-        "sectionId": null,
-        "parentId": null,
-        "order": 1,
-        "content": "중요도",
-        "description": "[Template/Google Calendar_명령어 예시.md](obsidian://open?vault=Developments&file=Template/Google%20Calendar_%EB%AA%85%EB%A0%B9%EC%96%B4%20%EC%98%88%EC%8B%9C.md)",
-        "isCompleted": true,
-        "labels": [
-          "Developments",
-          "todoist"
-        ],
-        "priority": 4,
-        "commentCount": 0,
-        "creatorId": "47946510",
-        "createdAt": "2024-01-25T22:34:54.040478Z",
-        "due": null,
-        "url": "https://todoist.com/showTask?id=7633275456",
-        "duration": null,
-        "path": "Template/Google Calendar_명령어 예시.md"
-      },
-      {
-        "id": "7633273088",
-        "assignerId": null,
-        "assigneeId": null,
-        "projectId": "2327534967",
-        "sectionId": "145916834",
-        "parentId": "7633269140",
-        "order": 1,
-        "content": "하위 할일",
-        "description": "[Template/Google Calendar_명령어 예시.md](obsidian://open?vault=Developments&file=Template/Google%20Calendar_%EB%AA%85%EB%A0%B9%EC%96%B4%20%EC%98%88%EC%8B%9C.md)",
-        "isCompleted": true,
-        "labels": [
-          "todoist"
-        ],
-        "priority": 1,
-        "commentCount": 0,
-        "creatorId": "47946510",
-        "createdAt": "2024-01-25T22:33:51.671678Z",
-        "due": null,
-        "url": "https://todoist.com/showTask?id=7633273088",
-        "duration": null,
-        "path": "Template/Google Calendar_명령어 예시.md"
-      },
-      {
         "id": "7633260199",
         "assignerId": null,
         "assigneeId": null,
@@ -143,7 +72,7 @@
         "parentId": null,
         "order": 2,
         "content": "테스트 #해야할일",
-        "description": "[Template/Google Calendar_명령어 예시.md](obsidian://open?vault=Developments&file=Template/Google%20Calendar_%EB%AA%85%EB%A0%B9%EC%96%B4%20%EC%98%88%EC%8B%9C.md)",
+        "description": "[02. Files manager/Template/Google Calendar_명령어 예시.md](obsidian://open?vault=iOS.Developments&file=02.%20Files%20manager/Template/Google%20Calendar_%EB%AA%85%EB%A0%B9%EC%96%B4%20%EC%98%88%EC%8B%9C.md)",
         "isCompleted": true,
         "labels": [
           "Developments",
@@ -156,7 +85,7 @@
         "due": null,
         "url": "https://todoist.com/showTask?id=7633260199",
         "duration": null,
-        "path": "Template/Google Calendar_명령어 예시.md"
+        "path": "02. Files manager/Template/Google Calendar_명령어 예시.md"
       },
       {
         "id": "7633224944",
@@ -167,7 +96,7 @@
         "parentId": null,
         "order": 2,
         "content": "옵시디언 자료 백업   \\\\",
-        "description": "[Template/Google Calendar_명령어 예시.md](obsidian://open?vault=Developments&file=Template/Google%20Calendar_%EB%AA%85%EB%A0%B9%EC%96%B4%20%EC%98%88%EC%8B%9C.md)",
+        "description": "[02. Files manager/Template/Google Calendar_명령어 예시.md](obsidian://open?vault=iOS.Developments&file=02.%20Files%20manager/Template/Google%20Calendar_%EB%AA%85%EB%A0%B9%EC%96%B4%20%EC%98%88%EC%8B%9C.md)",
         "isCompleted": true,
         "labels": [
           "todoist"
@@ -179,7 +108,78 @@
         "due": null,
         "url": "https://todoist.com/showTask?id=7633224944",
         "duration": null,
-        "path": "Template/Google Calendar_명령어 예시.md"
+        "path": "02. Files manager/Template/Google Calendar_명령어 예시.md"
+      },
+      {
+        "id": "7633269140",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2327534967",
+        "sectionId": "145916834",
+        "parentId": null,
+        "order": 0,
+        "content": "테스트",
+        "description": "[02. Files manager/Template/Google Calendar_명령어 예시.md](obsidian://open?vault=iOS.Developments&file=02.%20Files%20manager/Template/Google%20Calendar_%EB%AA%85%EB%A0%B9%EC%96%B4%20%EC%98%88%EC%8B%9C.md)",
+        "isCompleted": true,
+        "labels": [
+          "Developments",
+          "todoist"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "47946510",
+        "createdAt": "2024-01-25T22:31:51.554546Z",
+        "due": null,
+        "url": "https://todoist.com/showTask?id=7633269140",
+        "duration": null,
+        "path": "02. Files manager/Template/Google Calendar_명령어 예시.md"
+      },
+      {
+        "id": "7633273088",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2327534967",
+        "sectionId": "145916834",
+        "parentId": "7633269140",
+        "order": 1,
+        "content": "하위 할일",
+        "description": "[02. Files manager/Template/Google Calendar_명령어 예시.md](obsidian://open?vault=iOS.Developments&file=02.%20Files%20manager/Template/Google%20Calendar_%EB%AA%85%EB%A0%B9%EC%96%B4%20%EC%98%88%EC%8B%9C.md)",
+        "isCompleted": true,
+        "labels": [
+          "todoist"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "47946510",
+        "createdAt": "2024-01-25T22:33:51.671678Z",
+        "due": null,
+        "url": "https://todoist.com/showTask?id=7633273088",
+        "duration": null,
+        "path": "02. Files manager/Template/Google Calendar_명령어 예시.md"
+      },
+      {
+        "id": "7633275456",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2327534967",
+        "sectionId": null,
+        "parentId": null,
+        "order": 1,
+        "content": "중요도",
+        "description": "[02. Files manager/Template/Google Calendar_명령어 예시.md](obsidian://open?vault=iOS.Developments&file=02.%20Files%20manager/Template/Google%20Calendar_%EB%AA%85%EB%A0%B9%EC%96%B4%20%EC%98%88%EC%8B%9C.md)",
+        "isCompleted": true,
+        "labels": [
+          "Developments",
+          "todoist"
+        ],
+        "priority": 4,
+        "commentCount": 0,
+        "creatorId": "47946510",
+        "createdAt": "2024-01-25T22:34:54.040478Z",
+        "due": null,
+        "url": "https://todoist.com/showTask?id=7633275456",
+        "duration": null,
+        "path": "02. Files manager/Template/Google Calendar_명령어 예시.md"
       }
     ],
     "events": [
@@ -550,11 +550,551 @@
         "object_type": "item",
         "parent_item_id": null,
         "parent_project_id": "2327533767"
+      },
+      {
+        "event_date": "2024-01-26T02:44:48.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "중요도",
+          "description": "[02. Files manager/Template/Google Calendar_명령어 예시.md](obsidian://open?vault=iOS.Developments&file=02.%20Files%20manager/Template/Google%20Calendar_%EB%AA%85%EB%A0%B9%EC%96%B4%20%EC%98%88%EC%8B%9C.md)",
+          "last_description": "[02. Files/Template/Google Calendar_명령어 예시.md](obsidian://open?vault=iOS.Developments&file=02.%20Files/Template/Google%20Calendar_%EB%AA%85%EB%A0%B9%EC%96%B4%20%EC%98%88%EC%8B%9C.md)",
+          "note_count": 0
+        },
+        "extra_data_id": 22844344641,
+        "id": 22758048827,
+        "initiator_id": null,
+        "object_id": "7633275456",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327534967"
+      },
+      {
+        "event_date": "2024-01-26T02:44:48.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "테스트",
+          "description": "[02. Files manager/Template/Google Calendar_명령어 예시.md](obsidian://open?vault=iOS.Developments&file=02.%20Files%20manager/Template/Google%20Calendar_%EB%AA%85%EB%A0%B9%EC%96%B4%20%EC%98%88%EC%8B%9C.md)",
+          "last_description": "[02. Files/Template/Google Calendar_명령어 예시.md](obsidian://open?vault=iOS.Developments&file=02.%20Files/Template/Google%20Calendar_%EB%AA%85%EB%A0%B9%EC%96%B4%20%EC%98%88%EC%8B%9C.md)",
+          "note_count": 0
+        },
+        "extra_data_id": 22844344617,
+        "id": 22758048803,
+        "initiator_id": null,
+        "object_id": "7633269140",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327534967"
+      },
+      {
+        "event_date": "2024-01-26T02:44:48.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "옵시디언 자료 백업   \\\\",
+          "description": "[02. Files manager/Template/Google Calendar_명령어 예시.md](obsidian://open?vault=iOS.Developments&file=02.%20Files%20manager/Template/Google%20Calendar_%EB%AA%85%EB%A0%B9%EC%96%B4%20%EC%98%88%EC%8B%9C.md)",
+          "last_description": "[02. Files/Template/Google Calendar_명령어 예시.md](obsidian://open?vault=iOS.Developments&file=02.%20Files/Template/Google%20Calendar_%EB%AA%85%EB%A0%B9%EC%96%B4%20%EC%98%88%EC%8B%9C.md)",
+          "note_count": 0
+        },
+        "extra_data_id": 22844344613,
+        "id": 22758048799,
+        "initiator_id": null,
+        "object_id": "7633224944",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327533767"
+      },
+      {
+        "event_date": "2024-01-26T02:44:48.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "하위 할일",
+          "description": "[02. Files manager/Template/Google Calendar_명령어 예시.md](obsidian://open?vault=iOS.Developments&file=02.%20Files%20manager/Template/Google%20Calendar_%EB%AA%85%EB%A0%B9%EC%96%B4%20%EC%98%88%EC%8B%9C.md)",
+          "last_description": "[02. Files/Template/Google Calendar_명령어 예시.md](obsidian://open?vault=iOS.Developments&file=02.%20Files/Template/Google%20Calendar_%EB%AA%85%EB%A0%B9%EC%96%B4%20%EC%98%88%EC%8B%9C.md)",
+          "note_count": 0
+        },
+        "extra_data_id": 22844344612,
+        "id": 22758048798,
+        "initiator_id": null,
+        "object_id": "7633273088",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327534967"
+      },
+      {
+        "event_date": "2024-01-26T02:44:48.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "테스트 #해야할일",
+          "description": "[02. Files manager/Template/Google Calendar_명령어 예시.md](obsidian://open?vault=iOS.Developments&file=02.%20Files%20manager/Template/Google%20Calendar_%EB%AA%85%EB%A0%B9%EC%96%B4%20%EC%98%88%EC%8B%9C.md)",
+          "last_description": "[02. Files/Template/Google Calendar_명령어 예시.md](obsidian://open?vault=iOS.Developments&file=02.%20Files/Template/Google%20Calendar_%EB%AA%85%EB%A0%B9%EC%96%B4%20%EC%98%88%EC%8B%9C.md)",
+          "note_count": 0
+        },
+        "extra_data_id": 22844344611,
+        "id": 22758048797,
+        "initiator_id": null,
+        "object_id": "7633260199",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327533767"
+      },
+      {
+        "event_date": "2024-01-26T02:44:22.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "테스트",
+          "description": "[02. Files/Template/Google Calendar_명령어 예시.md](obsidian://open?vault=iOS.Developments&file=02.%20Files/Template/Google%20Calendar_%EB%AA%85%EB%A0%B9%EC%96%B4%20%EC%98%88%EC%8B%9C.md)",
+          "last_description": "[02. File/Template/Google Calendar_명령어 예시.md](obsidian://open?vault=iOS.Developments&file=02.%20File/Template/Google%20Calendar_%EB%AA%85%EB%A0%B9%EC%96%B4%20%EC%98%88%EC%8B%9C.md)",
+          "note_count": 0
+        },
+        "extra_data_id": 22844342753,
+        "id": 22758046939,
+        "initiator_id": null,
+        "object_id": "7633269140",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327534967"
+      },
+      {
+        "event_date": "2024-01-26T02:44:22.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "중요도",
+          "description": "[02. Files/Template/Google Calendar_명령어 예시.md](obsidian://open?vault=iOS.Developments&file=02.%20Files/Template/Google%20Calendar_%EB%AA%85%EB%A0%B9%EC%96%B4%20%EC%98%88%EC%8B%9C.md)",
+          "last_description": "[02. File/Template/Google Calendar_명령어 예시.md](obsidian://open?vault=iOS.Developments&file=02.%20File/Template/Google%20Calendar_%EB%AA%85%EB%A0%B9%EC%96%B4%20%EC%98%88%EC%8B%9C.md)",
+          "note_count": 0
+        },
+        "extra_data_id": 22844342752,
+        "id": 22758046938,
+        "initiator_id": null,
+        "object_id": "7633275456",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327534967"
+      },
+      {
+        "event_date": "2024-01-26T02:44:22.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "하위 할일",
+          "description": "[02. Files/Template/Google Calendar_명령어 예시.md](obsidian://open?vault=iOS.Developments&file=02.%20Files/Template/Google%20Calendar_%EB%AA%85%EB%A0%B9%EC%96%B4%20%EC%98%88%EC%8B%9C.md)",
+          "last_description": "[02. File/Template/Google Calendar_명령어 예시.md](obsidian://open?vault=iOS.Developments&file=02.%20File/Template/Google%20Calendar_%EB%AA%85%EB%A0%B9%EC%96%B4%20%EC%98%88%EC%8B%9C.md)",
+          "note_count": 0
+        },
+        "extra_data_id": 22844342749,
+        "id": 22758046935,
+        "initiator_id": null,
+        "object_id": "7633273088",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327534967"
+      },
+      {
+        "event_date": "2024-01-26T02:44:22.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "테스트 #해야할일",
+          "description": "[02. Files/Template/Google Calendar_명령어 예시.md](obsidian://open?vault=iOS.Developments&file=02.%20Files/Template/Google%20Calendar_%EB%AA%85%EB%A0%B9%EC%96%B4%20%EC%98%88%EC%8B%9C.md)",
+          "last_description": "[02. File/Template/Google Calendar_명령어 예시.md](obsidian://open?vault=iOS.Developments&file=02.%20File/Template/Google%20Calendar_%EB%AA%85%EB%A0%B9%EC%96%B4%20%EC%98%88%EC%8B%9C.md)",
+          "note_count": 0
+        },
+        "extra_data_id": 22844342747,
+        "id": 22758046934,
+        "initiator_id": null,
+        "object_id": "7633260199",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327533767"
+      },
+      {
+        "event_date": "2024-01-26T02:44:22.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "옵시디언 자료 백업   \\\\",
+          "description": "[02. Files/Template/Google Calendar_명령어 예시.md](obsidian://open?vault=iOS.Developments&file=02.%20Files/Template/Google%20Calendar_%EB%AA%85%EB%A0%B9%EC%96%B4%20%EC%98%88%EC%8B%9C.md)",
+          "last_description": "[02. File/Template/Google Calendar_명령어 예시.md](obsidian://open?vault=iOS.Developments&file=02.%20File/Template/Google%20Calendar_%EB%AA%85%EB%A0%B9%EC%96%B4%20%EC%98%88%EC%8B%9C.md)",
+          "note_count": 0
+        },
+        "extra_data_id": 22844342726,
+        "id": 22758046912,
+        "initiator_id": null,
+        "object_id": "7633224944",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327533767"
+      },
+      {
+        "event_date": "2024-01-26T02:44:07.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "중요도",
+          "description": "[02. File/Template/Google Calendar_명령어 예시.md](obsidian://open?vault=iOS.Developments&file=02.%20File/Template/Google%20Calendar_%EB%AA%85%EB%A0%B9%EC%96%B4%20%EC%98%88%EC%8B%9C.md)",
+          "last_description": "[File/Template/Google Calendar_명령어 예시.md](obsidian://open?vault=iOS.Developments&file=File/Template/Google%20Calendar_%EB%AA%85%EB%A0%B9%EC%96%B4%20%EC%98%88%EC%8B%9C.md)",
+          "note_count": 0
+        },
+        "extra_data_id": 22844341556,
+        "id": 22758045742,
+        "initiator_id": null,
+        "object_id": "7633275456",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327534967"
+      },
+      {
+        "event_date": "2024-01-26T02:44:07.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "하위 할일",
+          "description": "[02. File/Template/Google Calendar_명령어 예시.md](obsidian://open?vault=iOS.Developments&file=02.%20File/Template/Google%20Calendar_%EB%AA%85%EB%A0%B9%EC%96%B4%20%EC%98%88%EC%8B%9C.md)",
+          "last_description": "[File/Template/Google Calendar_명령어 예시.md](obsidian://open?vault=iOS.Developments&file=File/Template/Google%20Calendar_%EB%AA%85%EB%A0%B9%EC%96%B4%20%EC%98%88%EC%8B%9C.md)",
+          "note_count": 0
+        },
+        "extra_data_id": 22844341541,
+        "id": 22758045729,
+        "initiator_id": null,
+        "object_id": "7633273088",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327534967"
+      },
+      {
+        "event_date": "2024-01-26T02:44:07.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "테스트",
+          "description": "[02. File/Template/Google Calendar_명령어 예시.md](obsidian://open?vault=iOS.Developments&file=02.%20File/Template/Google%20Calendar_%EB%AA%85%EB%A0%B9%EC%96%B4%20%EC%98%88%EC%8B%9C.md)",
+          "last_description": "[File/Template/Google Calendar_명령어 예시.md](obsidian://open?vault=iOS.Developments&file=File/Template/Google%20Calendar_%EB%AA%85%EB%A0%B9%EC%96%B4%20%EC%98%88%EC%8B%9C.md)",
+          "note_count": 0
+        },
+        "extra_data_id": 22844341537,
+        "id": 22758045723,
+        "initiator_id": null,
+        "object_id": "7633269140",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327534967"
+      },
+      {
+        "event_date": "2024-01-26T02:44:07.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "테스트 #해야할일",
+          "description": "[02. File/Template/Google Calendar_명령어 예시.md](obsidian://open?vault=iOS.Developments&file=02.%20File/Template/Google%20Calendar_%EB%AA%85%EB%A0%B9%EC%96%B4%20%EC%98%88%EC%8B%9C.md)",
+          "last_description": "[File/Template/Google Calendar_명령어 예시.md](obsidian://open?vault=iOS.Developments&file=File/Template/Google%20Calendar_%EB%AA%85%EB%A0%B9%EC%96%B4%20%EC%98%88%EC%8B%9C.md)",
+          "note_count": 0
+        },
+        "extra_data_id": 22844341534,
+        "id": 22758045720,
+        "initiator_id": null,
+        "object_id": "7633260199",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327533767"
+      },
+      {
+        "event_date": "2024-01-26T02:44:07.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "옵시디언 자료 백업   \\\\",
+          "description": "[02. File/Template/Google Calendar_명령어 예시.md](obsidian://open?vault=iOS.Developments&file=02.%20File/Template/Google%20Calendar_%EB%AA%85%EB%A0%B9%EC%96%B4%20%EC%98%88%EC%8B%9C.md)",
+          "last_description": "[File/Template/Google Calendar_명령어 예시.md](obsidian://open?vault=iOS.Developments&file=File/Template/Google%20Calendar_%EB%AA%85%EB%A0%B9%EC%96%B4%20%EC%98%88%EC%8B%9C.md)",
+          "note_count": 0
+        },
+        "extra_data_id": 22844341514,
+        "id": 22758045700,
+        "initiator_id": null,
+        "object_id": "7633224944",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327533767"
+      },
+      {
+        "event_date": "2024-01-26T02:43:25.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "테스트 #해야할일",
+          "description": "[File/Template/Google Calendar_명령어 예시.md](obsidian://open?vault=iOS.Developments&file=File/Template/Google%20Calendar_%EB%AA%85%EB%A0%B9%EC%96%B4%20%EC%98%88%EC%8B%9C.md)",
+          "last_description": "[Template/Google Calendar_명령어 예시.md](obsidian://open?vault=iOS.Developments&file=Template/Google%20Calendar_%EB%AA%85%EB%A0%B9%EC%96%B4%20%EC%98%88%EC%8B%9C.md)",
+          "note_count": 0
+        },
+        "extra_data_id": 22844338263,
+        "id": 22758042449,
+        "initiator_id": null,
+        "object_id": "7633260199",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327533767"
+      },
+      {
+        "event_date": "2024-01-26T02:43:25.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "하위 할일",
+          "description": "[File/Template/Google Calendar_명령어 예시.md](obsidian://open?vault=iOS.Developments&file=File/Template/Google%20Calendar_%EB%AA%85%EB%A0%B9%EC%96%B4%20%EC%98%88%EC%8B%9C.md)",
+          "last_description": "[Template/Google Calendar_명령어 예시.md](obsidian://open?vault=iOS.Developments&file=Template/Google%20Calendar_%EB%AA%85%EB%A0%B9%EC%96%B4%20%EC%98%88%EC%8B%9C.md)",
+          "note_count": 0
+        },
+        "extra_data_id": 22844338255,
+        "id": 22758042441,
+        "initiator_id": null,
+        "object_id": "7633273088",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327534967"
+      },
+      {
+        "event_date": "2024-01-26T02:43:25.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "테스트",
+          "description": "[File/Template/Google Calendar_명령어 예시.md](obsidian://open?vault=iOS.Developments&file=File/Template/Google%20Calendar_%EB%AA%85%EB%A0%B9%EC%96%B4%20%EC%98%88%EC%8B%9C.md)",
+          "last_description": "[Template/Google Calendar_명령어 예시.md](obsidian://open?vault=iOS.Developments&file=Template/Google%20Calendar_%EB%AA%85%EB%A0%B9%EC%96%B4%20%EC%98%88%EC%8B%9C.md)",
+          "note_count": 0
+        },
+        "extra_data_id": 22844338252,
+        "id": 22758042438,
+        "initiator_id": null,
+        "object_id": "7633269140",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327534967"
+      },
+      {
+        "event_date": "2024-01-26T02:43:25.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "옵시디언 자료 백업   \\\\",
+          "description": "[File/Template/Google Calendar_명령어 예시.md](obsidian://open?vault=iOS.Developments&file=File/Template/Google%20Calendar_%EB%AA%85%EB%A0%B9%EC%96%B4%20%EC%98%88%EC%8B%9C.md)",
+          "last_description": "[Template/Google Calendar_명령어 예시.md](obsidian://open?vault=iOS.Developments&file=Template/Google%20Calendar_%EB%AA%85%EB%A0%B9%EC%96%B4%20%EC%98%88%EC%8B%9C.md)",
+          "note_count": 0
+        },
+        "extra_data_id": 22844338250,
+        "id": 22758042436,
+        "initiator_id": null,
+        "object_id": "7633224944",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327533767"
+      },
+      {
+        "event_date": "2024-01-26T02:43:25.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "중요도",
+          "description": "[File/Template/Google Calendar_명령어 예시.md](obsidian://open?vault=iOS.Developments&file=File/Template/Google%20Calendar_%EB%AA%85%EB%A0%B9%EC%96%B4%20%EC%98%88%EC%8B%9C.md)",
+          "last_description": "[Template/Google Calendar_명령어 예시.md](obsidian://open?vault=iOS.Developments&file=Template/Google%20Calendar_%EB%AA%85%EB%A0%B9%EC%96%B4%20%EC%98%88%EC%8B%9C.md)",
+          "note_count": 0
+        },
+        "extra_data_id": 22844338247,
+        "id": 22758042433,
+        "initiator_id": null,
+        "object_id": "7633275456",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327534967"
+      },
+      {
+        "event_date": "2024-01-26T02:43:02.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "테스트",
+          "description": "[Template/Google Calendar_명령어 예시.md](obsidian://open?vault=iOS.Developments&file=Template/Google%20Calendar_%EB%AA%85%EB%A0%B9%EC%96%B4%20%EC%98%88%EC%8B%9C.md)",
+          "last_description": "[01. Template/Google Calendar_명령어 예시.md](obsidian://open?vault=iOS.Developments&file=01.%20Template/Google%20Calendar_%EB%AA%85%EB%A0%B9%EC%96%B4%20%EC%98%88%EC%8B%9C.md)",
+          "note_count": 0
+        },
+        "extra_data_id": 22844336601,
+        "id": 22758040788,
+        "initiator_id": null,
+        "object_id": "7633269140",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327534967"
+      },
+      {
+        "event_date": "2024-01-26T02:43:02.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "옵시디언 자료 백업   \\\\",
+          "description": "[Template/Google Calendar_명령어 예시.md](obsidian://open?vault=iOS.Developments&file=Template/Google%20Calendar_%EB%AA%85%EB%A0%B9%EC%96%B4%20%EC%98%88%EC%8B%9C.md)",
+          "last_description": "[01. Template/Google Calendar_명령어 예시.md](obsidian://open?vault=iOS.Developments&file=01.%20Template/Google%20Calendar_%EB%AA%85%EB%A0%B9%EC%96%B4%20%EC%98%88%EC%8B%9C.md)",
+          "note_count": 0
+        },
+        "extra_data_id": 22844336600,
+        "id": 22758040786,
+        "initiator_id": null,
+        "object_id": "7633224944",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327533767"
+      },
+      {
+        "event_date": "2024-01-26T02:43:02.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "중요도",
+          "description": "[Template/Google Calendar_명령어 예시.md](obsidian://open?vault=iOS.Developments&file=Template/Google%20Calendar_%EB%AA%85%EB%A0%B9%EC%96%B4%20%EC%98%88%EC%8B%9C.md)",
+          "last_description": "[01. Template/Google Calendar_명령어 예시.md](obsidian://open?vault=iOS.Developments&file=01.%20Template/Google%20Calendar_%EB%AA%85%EB%A0%B9%EC%96%B4%20%EC%98%88%EC%8B%9C.md)",
+          "note_count": 0
+        },
+        "extra_data_id": 22844336599,
+        "id": 22758040785,
+        "initiator_id": null,
+        "object_id": "7633275456",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327534967"
+      },
+      {
+        "event_date": "2024-01-26T02:43:02.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "하위 할일",
+          "description": "[Template/Google Calendar_명령어 예시.md](obsidian://open?vault=iOS.Developments&file=Template/Google%20Calendar_%EB%AA%85%EB%A0%B9%EC%96%B4%20%EC%98%88%EC%8B%9C.md)",
+          "last_description": "[01. Template/Google Calendar_명령어 예시.md](obsidian://open?vault=iOS.Developments&file=01.%20Template/Google%20Calendar_%EB%AA%85%EB%A0%B9%EC%96%B4%20%EC%98%88%EC%8B%9C.md)",
+          "note_count": 0
+        },
+        "extra_data_id": 22844336597,
+        "id": 22758040784,
+        "initiator_id": null,
+        "object_id": "7633273088",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327534967"
+      },
+      {
+        "event_date": "2024-01-26T02:43:02.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "테스트 #해야할일",
+          "description": "[Template/Google Calendar_명령어 예시.md](obsidian://open?vault=iOS.Developments&file=Template/Google%20Calendar_%EB%AA%85%EB%A0%B9%EC%96%B4%20%EC%98%88%EC%8B%9C.md)",
+          "last_description": "[01. Template/Google Calendar_명령어 예시.md](obsidian://open?vault=iOS.Developments&file=01.%20Template/Google%20Calendar_%EB%AA%85%EB%A0%B9%EC%96%B4%20%EC%98%88%EC%8B%9C.md)",
+          "note_count": 0
+        },
+        "extra_data_id": 22844336594,
+        "id": 22758040780,
+        "initiator_id": null,
+        "object_id": "7633260199",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327533767"
+      },
+      {
+        "event_date": "2024-01-26T02:42:22.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "하위 할일",
+          "description": "[01. Template/Google Calendar_명령어 예시.md](obsidian://open?vault=iOS.Developments&file=01.%20Template/Google%20Calendar_%EB%AA%85%EB%A0%B9%EC%96%B4%20%EC%98%88%EC%8B%9C.md)",
+          "last_description": "[Template/Google Calendar_명령어 예시.md](obsidian://open?vault=Developments&file=Template/Google%20Calendar_%EB%AA%85%EB%A0%B9%EC%96%B4%20%EC%98%88%EC%8B%9C.md)",
+          "note_count": 0
+        },
+        "extra_data_id": 22844333602,
+        "id": 22758037788,
+        "initiator_id": null,
+        "object_id": "7633273088",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327534967"
+      },
+      {
+        "event_date": "2024-01-26T02:42:20.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "테스트",
+          "description": "[01. Template/Google Calendar_명령어 예시.md](obsidian://open?vault=iOS.Developments&file=01.%20Template/Google%20Calendar_%EB%AA%85%EB%A0%B9%EC%96%B4%20%EC%98%88%EC%8B%9C.md)",
+          "last_description": "[Template/Google Calendar_명령어 예시.md](obsidian://open?vault=Developments&file=Template/Google%20Calendar_%EB%AA%85%EB%A0%B9%EC%96%B4%20%EC%98%88%EC%8B%9C.md)",
+          "note_count": 0
+        },
+        "extra_data_id": 22844333473,
+        "id": 22758037659,
+        "initiator_id": null,
+        "object_id": "7633269140",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327534967"
+      },
+      {
+        "event_date": "2024-01-26T02:42:20.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "중요도",
+          "description": "[01. Template/Google Calendar_명령어 예시.md](obsidian://open?vault=iOS.Developments&file=01.%20Template/Google%20Calendar_%EB%AA%85%EB%A0%B9%EC%96%B4%20%EC%98%88%EC%8B%9C.md)",
+          "last_description": "[Template/Google Calendar_명령어 예시.md](obsidian://open?vault=Developments&file=Template/Google%20Calendar_%EB%AA%85%EB%A0%B9%EC%96%B4%20%EC%98%88%EC%8B%9C.md)",
+          "note_count": 0
+        },
+        "extra_data_id": 22844333456,
+        "id": 22758037642,
+        "initiator_id": null,
+        "object_id": "7633275456",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327534967"
+      },
+      {
+        "event_date": "2024-01-26T02:42:20.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "테스트 #해야할일",
+          "description": "[01. Template/Google Calendar_명령어 예시.md](obsidian://open?vault=iOS.Developments&file=01.%20Template/Google%20Calendar_%EB%AA%85%EB%A0%B9%EC%96%B4%20%EC%98%88%EC%8B%9C.md)",
+          "last_description": "[Template/Google Calendar_명령어 예시.md](obsidian://open?vault=Developments&file=Template/Google%20Calendar_%EB%AA%85%EB%A0%B9%EC%96%B4%20%EC%98%88%EC%8B%9C.md)",
+          "note_count": 0
+        },
+        "extra_data_id": 22844333440,
+        "id": 22758037626,
+        "initiator_id": null,
+        "object_id": "7633260199",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327533767"
+      },
+      {
+        "event_date": "2024-01-26T02:42:20.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "옵시디언 자료 백업   \\\\",
+          "description": "[01. Template/Google Calendar_명령어 예시.md](obsidian://open?vault=iOS.Developments&file=01.%20Template/Google%20Calendar_%EB%AA%85%EB%A0%B9%EC%96%B4%20%EC%98%88%EC%8B%9C.md)",
+          "last_description": "[Template/Google Calendar_명령어 예시.md](obsidian://open?vault=Developments&file=Template/Google%20Calendar_%EB%AA%85%EB%A0%B9%EC%96%B4%20%EC%98%88%EC%8B%9C.md)",
+          "note_count": 0
+        },
+        "extra_data_id": 22844333426,
+        "id": 22758037612,
+        "initiator_id": null,
+        "object_id": "7633224944",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327533767"
       }
     ]
   },
   "fileMetadata": {
-    "Template/Google Calendar_명령어 예시.md": {
+    "02. Files manager/Template/Google Calendar_명령어 예시.md": {
       "todoistTasks": [
         "7633224944",
         "7633260199",
