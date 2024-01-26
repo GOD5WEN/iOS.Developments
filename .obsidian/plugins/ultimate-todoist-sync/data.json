@@ -1,0 +1,572 @@
+{
+  "initialized": true,
+  "apiInitialized": true,
+  "defaultProjectName": "Inbox",
+  "automaticSynchronizationInterval": 300,
+  "todoistTasksData": {
+    "projects": [
+      {
+        "id": "2327533767",
+        "parentId": null,
+        "order": 0,
+        "color": "charcoal",
+        "name": "Inbox",
+        "commentCount": 0,
+        "isShared": false,
+        "isFavorite": false,
+        "isInboxProject": true,
+        "isTeamInbox": false,
+        "url": "https://todoist.com/showProject?id=2327533767",
+        "viewStyle": "list"
+      },
+      {
+        "id": "2327534967",
+        "parentId": null,
+        "order": 1,
+        "color": "blue",
+        "name": "Developments",
+        "commentCount": 0,
+        "isShared": false,
+        "isFavorite": false,
+        "isInboxProject": false,
+        "isTeamInbox": false,
+        "url": "https://todoist.com/showProject?id=2327534967",
+        "viewStyle": "board"
+      },
+      {
+        "id": "2327537848",
+        "parentId": null,
+        "order": 2,
+        "color": "green",
+        "name": "Owen kim",
+        "commentCount": 0,
+        "isShared": false,
+        "isFavorite": false,
+        "isInboxProject": false,
+        "isTeamInbox": false,
+        "url": "https://todoist.com/showProject?id=2327537848",
+        "viewStyle": "list"
+      },
+      {
+        "id": "2327537869",
+        "parentId": null,
+        "order": 3,
+        "color": "yellow",
+        "name": "Company",
+        "commentCount": 0,
+        "isShared": false,
+        "isFavorite": false,
+        "isInboxProject": false,
+        "isTeamInbox": false,
+        "url": "https://todoist.com/showProject?id=2327537869",
+        "viewStyle": "list"
+      }
+    ],
+    "tasks": [
+      {
+        "id": "7633269140",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2327534967",
+        "sectionId": "145916834",
+        "parentId": null,
+        "order": 0,
+        "content": "테스트",
+        "description": "[Template/Google Calendar_명령어 예시.md](obsidian://open?vault=Developments&file=Template/Google%20Calendar_%EB%AA%85%EB%A0%B9%EC%96%B4%20%EC%98%88%EC%8B%9C.md)",
+        "isCompleted": true,
+        "labels": [
+          "Developments",
+          "todoist"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "47946510",
+        "createdAt": "2024-01-25T22:31:51.554546Z",
+        "due": null,
+        "url": "https://todoist.com/showTask?id=7633269140",
+        "duration": null,
+        "path": "Template/Google Calendar_명령어 예시.md"
+      },
+      {
+        "id": "7633275456",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2327534967",
+        "sectionId": null,
+        "parentId": null,
+        "order": 1,
+        "content": "중요도",
+        "description": "[Template/Google Calendar_명령어 예시.md](obsidian://open?vault=Developments&file=Template/Google%20Calendar_%EB%AA%85%EB%A0%B9%EC%96%B4%20%EC%98%88%EC%8B%9C.md)",
+        "isCompleted": true,
+        "labels": [
+          "Developments",
+          "todoist"
+        ],
+        "priority": 4,
+        "commentCount": 0,
+        "creatorId": "47946510",
+        "createdAt": "2024-01-25T22:34:54.040478Z",
+        "due": null,
+        "url": "https://todoist.com/showTask?id=7633275456",
+        "duration": null,
+        "path": "Template/Google Calendar_명령어 예시.md"
+      },
+      {
+        "id": "7633273088",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2327534967",
+        "sectionId": "145916834",
+        "parentId": "7633269140",
+        "order": 1,
+        "content": "하위 할일",
+        "description": "[Template/Google Calendar_명령어 예시.md](obsidian://open?vault=Developments&file=Template/Google%20Calendar_%EB%AA%85%EB%A0%B9%EC%96%B4%20%EC%98%88%EC%8B%9C.md)",
+        "isCompleted": true,
+        "labels": [
+          "todoist"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "47946510",
+        "createdAt": "2024-01-25T22:33:51.671678Z",
+        "due": null,
+        "url": "https://todoist.com/showTask?id=7633273088",
+        "duration": null,
+        "path": "Template/Google Calendar_명령어 예시.md"
+      },
+      {
+        "id": "7633260199",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2327533767",
+        "sectionId": null,
+        "parentId": null,
+        "order": 2,
+        "content": "테스트 #해야할일",
+        "description": "[Template/Google Calendar_명령어 예시.md](obsidian://open?vault=Developments&file=Template/Google%20Calendar_%EB%AA%85%EB%A0%B9%EC%96%B4%20%EC%98%88%EC%8B%9C.md)",
+        "isCompleted": true,
+        "labels": [
+          "Developments",
+          "todoist"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "47946510",
+        "createdAt": "2024-01-25T22:27:23.529358Z",
+        "due": null,
+        "url": "https://todoist.com/showTask?id=7633260199",
+        "duration": null,
+        "path": "Template/Google Calendar_명령어 예시.md"
+      },
+      {
+        "id": "7633224944",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2327533767",
+        "sectionId": null,
+        "parentId": null,
+        "order": 2,
+        "content": "옵시디언 자료 백업   \\\\",
+        "description": "[Template/Google Calendar_명령어 예시.md](obsidian://open?vault=Developments&file=Template/Google%20Calendar_%EB%AA%85%EB%A0%B9%EC%96%B4%20%EC%98%88%EC%8B%9C.md)",
+        "isCompleted": true,
+        "labels": [
+          "todoist"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "47946510",
+        "createdAt": "2024-01-25T22:10:23.386271Z",
+        "due": null,
+        "url": "https://todoist.com/showTask?id=7633224944",
+        "duration": null,
+        "path": "Template/Google Calendar_명령어 예시.md"
+      }
+    ],
+    "events": [
+      {
+        "event_date": "2024-01-25T22:11:55.000000Z",
+        "event_type": "completed",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "옵시디언 자료 백업",
+          "note_count": 0
+        },
+        "extra_data_id": 22842684875,
+        "id": 22756389064,
+        "initiator_id": null,
+        "object_id": "7633224944",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327533767"
+      },
+      {
+        "event_date": "2024-01-25T22:10:49.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "옵시디언 자료 백업",
+          "last_content": "옵시디언 자료 백업   \\\\",
+          "note_count": 0
+        },
+        "extra_data_id": 22842676739,
+        "id": 22756380929,
+        "initiator_id": null,
+        "object_id": "7633224944",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327533767"
+      },
+      {
+        "event_date": "2024-01-25T22:10:45.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "옵시디언 자료 백업   \\\\",
+          "last_content": "옵시디언 자료 백업",
+          "note_count": 0
+        },
+        "extra_data_id": 22842676118,
+        "id": 22756380306,
+        "initiator_id": null,
+        "object_id": "7633224944",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327533767"
+      },
+      {
+        "event_date": "2024-01-25T18:07:16.000000Z",
+        "event_type": "added",
+        "extra_data": {
+          "client": "Mozilla/5.0; Todoist/5100",
+          "name": "Company",
+          "note_count": 0
+        },
+        "extra_data_id": 22840375421,
+        "id": 22754079616,
+        "initiator_id": null,
+        "object_id": "2327537869",
+        "object_type": "project",
+        "parent_item_id": null,
+        "parent_project_id": null
+      },
+      {
+        "event_date": "2024-01-25T18:06:58.000000Z",
+        "event_type": "added",
+        "extra_data": {
+          "client": "Mozilla/5.0; Todoist/5100",
+          "name": "Owen kim",
+          "note_count": 0
+        },
+        "extra_data_id": 22840372687,
+        "id": 22754076883,
+        "initiator_id": null,
+        "object_id": "2327537848",
+        "object_type": "project",
+        "parent_item_id": null,
+        "parent_project_id": null
+      },
+      {
+        "event_date": "2024-01-25T17:09:00.000000Z",
+        "event_type": "added",
+        "extra_data": {
+          "client": "Mozilla/5.0; Todoist/5100",
+          "name": "Developments",
+          "note_count": 0
+        },
+        "extra_data_id": 22839758018,
+        "id": 22753462224,
+        "initiator_id": null,
+        "object_id": "2327534967",
+        "object_type": "project",
+        "parent_item_id": null,
+        "parent_project_id": null
+      },
+      {
+        "event_date": "2024-01-25T17:08:24.000000Z",
+        "event_type": "deleted",
+        "extra_data": {
+          "client": "Mozilla/5.0; Todoist/5100",
+          "name": "",
+          "note_count": 0
+        },
+        "extra_data_id": 22839752034,
+        "id": 22753456239,
+        "initiator_id": null,
+        "object_id": "2327533820",
+        "object_type": "project",
+        "parent_item_id": null,
+        "parent_project_id": null
+      },
+      {
+        "event_date": "2024-01-25T22:26:30.000000Z",
+        "event_type": "completed",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "옵시디언 자료 백업",
+          "note_count": 0
+        },
+        "extra_data_id": 22842793851,
+        "id": 22756498037,
+        "initiator_id": null,
+        "object_id": "7633224944",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327533767"
+      },
+      {
+        "event_date": "2024-01-25T22:26:28.000000Z",
+        "event_type": "uncompleted",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "옵시디언 자료 백업",
+          "note_count": 0
+        },
+        "extra_data_id": 22842793458,
+        "id": 22756497649,
+        "initiator_id": null,
+        "object_id": "7633224944",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327533767"
+      },
+      {
+        "event_date": "2024-01-25T22:32:43.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "테스트",
+          "last_content": "테스트2",
+          "note_count": 0
+        },
+        "extra_data_id": 22842838997,
+        "id": 22756543187,
+        "initiator_id": null,
+        "object_id": "7633269140",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327534967"
+      },
+      {
+        "event_date": "2024-01-25T22:30:34.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "테스트 #해야할일",
+          "last_content": "테스트",
+          "note_count": 0
+        },
+        "extra_data_id": 22842823775,
+        "id": 22756527961,
+        "initiator_id": null,
+        "object_id": "7633260199",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327533767"
+      },
+      {
+        "event_date": "2024-01-25T22:34:31.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "하위 할일",
+          "last_content": "하위할일",
+          "note_count": 0
+        },
+        "extra_data_id": 22842852453,
+        "id": 22756556641,
+        "initiator_id": null,
+        "object_id": "7633273088",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327534967"
+      },
+      {
+        "event_date": "2024-01-25T22:42:11.000000Z",
+        "event_type": "completed",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "중요도",
+          "note_count": 0
+        },
+        "extra_data_id": 22842963009,
+        "id": 22756667200,
+        "initiator_id": null,
+        "object_id": "7633275456",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327534967"
+      },
+      {
+        "event_date": "2024-01-25T22:42:10.000000Z",
+        "event_type": "completed",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "테스트",
+          "note_count": 0
+        },
+        "extra_data_id": 22842962893,
+        "id": 22756667080,
+        "initiator_id": null,
+        "object_id": "7633269140",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327534967"
+      },
+      {
+        "event_date": "2024-01-25T22:42:10.000000Z",
+        "event_type": "completed",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "하위 할일",
+          "note_count": 0
+        },
+        "extra_data_id": 22842962865,
+        "id": 22756667051,
+        "initiator_id": null,
+        "object_id": "7633273088",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327534967"
+      },
+      {
+        "event_date": "2024-01-25T22:42:09.000000Z",
+        "event_type": "completed",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "테스트 #해야할일",
+          "note_count": 0
+        },
+        "extra_data_id": 22842962726,
+        "id": 22756666911,
+        "initiator_id": null,
+        "object_id": "7633260199",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327533767"
+      },
+      {
+        "event_date": "2024-01-25T23:09:07.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "옵시디언 자료 백업",
+          "description": "[Template/Google Calendar_명령어 예시.md](obsidian://open?vault=Developments&file=Template/Google%20Calendar_%EB%AA%85%EB%A0%B9%EC%96%B4%20%EC%98%88%EC%8B%9C.md)",
+          "last_description": "[Google Calendar_명령어 예시.md](obsidian://open?vault=Developments&file=Google%20Calendar_%EB%AA%85%EB%A0%B9%EC%96%B4%20%EC%98%88%EC%8B%9C.md)",
+          "note_count": 0
+        },
+        "extra_data_id": 22843156103,
+        "id": 22756860290,
+        "initiator_id": null,
+        "object_id": "7633224944",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327533767"
+      },
+      {
+        "event_date": "2024-01-25T23:09:06.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "테스트 #해야할일",
+          "description": "[Template/Google Calendar_명령어 예시.md](obsidian://open?vault=Developments&file=Template/Google%20Calendar_%EB%AA%85%EB%A0%B9%EC%96%B4%20%EC%98%88%EC%8B%9C.md)",
+          "last_description": "[Google Calendar_명령어 예시.md](obsidian://open?vault=Developments&file=Google%20Calendar_%EB%AA%85%EB%A0%B9%EC%96%B4%20%EC%98%88%EC%8B%9C.md)",
+          "note_count": 0
+        },
+        "extra_data_id": 22843155960,
+        "id": 22756860143,
+        "initiator_id": null,
+        "object_id": "7633260199",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327533767"
+      },
+      {
+        "event_date": "2024-01-25T23:09:05.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "하위 할일",
+          "description": "[Template/Google Calendar_명령어 예시.md](obsidian://open?vault=Developments&file=Template/Google%20Calendar_%EB%AA%85%EB%A0%B9%EC%96%B4%20%EC%98%88%EC%8B%9C.md)",
+          "last_description": "[Google Calendar_명령어 예시.md](obsidian://open?vault=Developments&file=Google%20Calendar_%EB%AA%85%EB%A0%B9%EC%96%B4%20%EC%98%88%EC%8B%9C.md)",
+          "note_count": 0
+        },
+        "extra_data_id": 22843155820,
+        "id": 22756860006,
+        "initiator_id": null,
+        "object_id": "7633273088",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327534967"
+      },
+      {
+        "event_date": "2024-01-25T23:09:04.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "중요도",
+          "description": "[Template/Google Calendar_명령어 예시.md](obsidian://open?vault=Developments&file=Template/Google%20Calendar_%EB%AA%85%EB%A0%B9%EC%96%B4%20%EC%98%88%EC%8B%9C.md)",
+          "last_description": "[Google Calendar_명령어 예시.md](obsidian://open?vault=Developments&file=Google%20Calendar_%EB%AA%85%EB%A0%B9%EC%96%B4%20%EC%98%88%EC%8B%9C.md)",
+          "note_count": 0
+        },
+        "extra_data_id": 22843155803,
+        "id": 22756859990,
+        "initiator_id": null,
+        "object_id": "7633275456",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327534967"
+      },
+      {
+        "event_date": "2024-01-25T23:09:04.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "테스트",
+          "description": "[Template/Google Calendar_명령어 예시.md](obsidian://open?vault=Developments&file=Template/Google%20Calendar_%EB%AA%85%EB%A0%B9%EC%96%B4%20%EC%98%88%EC%8B%9C.md)",
+          "last_description": "[Google Calendar_명령어 예시.md](obsidian://open?vault=Developments&file=Google%20Calendar_%EB%AA%85%EB%A0%B9%EC%96%B4%20%EC%98%88%EC%8B%9C.md)",
+          "note_count": 0
+        },
+        "extra_data_id": 22843155730,
+        "id": 22756859917,
+        "initiator_id": null,
+        "object_id": "7633269140",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327534967"
+      },
+      {
+        "event_date": "2024-01-25T23:11:59.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "옵시디언 자료 백업   \\\\",
+          "last_content": "옵시디언 자료 백업",
+          "note_count": 0
+        },
+        "extra_data_id": 22843173777,
+        "id": 22756877963,
+        "initiator_id": null,
+        "object_id": "7633224944",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2327533767"
+      }
+    ]
+  },
+  "fileMetadata": {
+    "Template/Google Calendar_명령어 예시.md": {
+      "todoistTasks": [
+        "7633224944",
+        "7633260199",
+        "7633269140",
+        "7633273088",
+        "7633275456"
+      ],
+      "todoistCount": 5
+    }
+  },
+  "enableFullVaultSync": false,
+  "statistics": {},
+  "debugMode": false,
+  "todoistAPIToken": "daa3ce444e15e1f54d0d892178c49d6707a70c74"
+}
