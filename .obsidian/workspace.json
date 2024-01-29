@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03. iOS/3-2. Swift/3-2-1. 문법/03. Data type.md",
+                "file": "03. iOS/3-2. Swift/3-2-1. 문법/02. 기초문법가이드.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03. iOS/3-2. Swift/3-2-1. 문법/03. Data type.md",
+                "file": "03. iOS/3-2. Swift/3-2-1. 문법/02. 기초문법가이드.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03. iOS/3-2. Swift/3-2-1. 문법/03. Data type.md",
+                "file": "03. iOS/3-2. Swift/3-2-1. 문법/02. 기초문법가이드.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03. iOS/3-2. Swift/3-2-1. 문법/03. Data type.md"
+                "file": "03. iOS/3-2. Swift/3-2-1. 문법/02. 기초문법가이드.md"
               }
             }
           },
@@ -208,12 +208,12 @@
   },
   "active": "0b69cfa0610c9835",
   "lastOpenFiles": [
-    "03. iOS/3-2. Swift/3-2-1. 문법/02. 기초문법가이드.md",
-    "03. iOS/3-2. Swift/3-2-1. 문법/03. Data type.md",
-    "03. iOS/3-2. Swift/3-2-1. 문법/04. Collection.md",
     "03. iOS/3-2. Swift/3-2-1. 문법/05. if & switch.md",
-    "03. iOS/3-2. Swift/3-2-1. 문법/06. for.md",
+    "03. iOS/3-2. Swift/3-2-1. 문법/04. Collection.md",
+    "03. iOS/3-2. Swift/3-2-1. 문법/03. Data type.md",
+    "03. iOS/3-2. Swift/3-2-1. 문법/02. 기초문법가이드.md",
     "03. iOS/3-2. Swift/3-2-1. 문법/01. Standard Library.md",
+    "03. iOS/3-2. Swift/3-2-1. 문법/06. for.md",
     "03. iOS/3-2. Swift/3-2-1. 문법/00. 객체지향 프로그래밍.md",
     "var / let.md",
     "var ",
