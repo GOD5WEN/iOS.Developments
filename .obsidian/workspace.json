@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03. iOS/3-2. Swift/3-2-1. 문법/Alert.md",
+                "file": "03. iOS/3-2. Swift/3-2-1. 문법/03. Data type.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03. iOS/3-2. Swift/3-2-1. 문법/Alert.md",
+                "file": "03. iOS/3-2. Swift/3-2-1. 문법/03. Data type.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03. iOS/3-2. Swift/3-2-1. 문법/Alert.md",
+                "file": "03. iOS/3-2. Swift/3-2-1. 문법/03. Data type.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03. iOS/3-2. Swift/3-2-1. 문법/Alert.md"
+                "file": "03. iOS/3-2. Swift/3-2-1. 문법/03. Data type.md"
               }
             }
           },
@@ -206,20 +206,23 @@
       "obsidian-custom-frames:Open Todoist": false
     }
   },
-  "active": "0106de08ac6c30aa",
+  "active": "0b69cfa0610c9835",
   "lastOpenFiles": [
+    "03. iOS/3-2. Swift/3-2-1. 문법/02. 기초문법가이드.md",
+    "03. iOS/3-2. Swift/3-2-1. 문법/03. Data type.md",
+    "03. iOS/3-2. Swift/3-2-1. 문법/04. Collection.md",
+    "03. iOS/3-2. Swift/3-2-1. 문법/05. if & switch.md",
+    "03. iOS/3-2. Swift/3-2-1. 문법/06. for.md",
+    "03. iOS/3-2. Swift/3-2-1. 문법/01. Standard Library.md",
+    "03. iOS/3-2. Swift/3-2-1. 문법/00. 객체지향 프로그래밍.md",
+    "var / let.md",
+    "var ",
+    "03. iOS/3-2. Swift/3-2-1. 문법/Alert.md",
     "03. iOS/3-2. Swift/3-2-1. 문법/함수.md",
     "03. iOS/3-2. Swift/3-2-1. 문법/프로퍼티 옵저버.md",
     "03. iOS/3-2. Swift/3-2-1. 문법/Class & Structure.md",
-    "03. iOS/3-2. Swift/3-2-1. 문법/06. for.md",
-    "03. iOS/3-2. Swift/3-2-1. 문법/02. 기초문법가이드.md",
-    "03. iOS/3-2. Swift/3-2-1. 문법/05. if & switch.md",
-    "03. iOS/3-2. Swift/3-2-1. 문법/04. Collection.md",
     "05. if / switch.md",
     "05. if ",
-    "03. iOS/3-2. Swift/3-2-1. 문법/03. Data type.md",
-    "03. iOS/3-2. Swift/3-2-1. 문법/00. 객체지향 프로그래밍.md",
-    "03. iOS/3-2. Swift/3-2-1. 문법/01. Standard Library.md",
     "00. New Note/Collection.md",
     "03. iOS/3-2. Swift/3-2-1. 문법/Optionals.md",
     "00. New Note/데이터 타입.md",
@@ -236,15 +239,12 @@
     "02. Files manager/Attachment File",
     "02. Files manager/Attachment FileAttachment File.md",
     "04. Algorithm/TroubleShooting.md",
-    "README.md",
-    "10. ETC./README.md",
     "10. ETC./iTerm2.",
     "10. ETC./GitHub",
     "10. ETC.",
     "04. Algorithm",
     "03. iOS/3-2. Swift/3-2-4. DataBase",
     "03. iOS/3-2. Swift/3-2-3. 네트워크 통신",
-    "03. iOS/3-2. Swift/3-2-2. 메모리",
     "무제 파일 2.canvas",
     "무제 파일 1.canvas"
   ]
