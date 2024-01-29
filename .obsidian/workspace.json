@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03. iOS/3-2. Swift/3-2-1. 문법/01. 용어 정리.md",
+                "file": "03. iOS/3-1. Xcode/3-1-0. Program/01.  Basic.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03. iOS/3-2. Swift/3-2-1. 문법/01. 용어 정리.md",
+                "file": "03. iOS/3-1. Xcode/3-1-0. Program/01.  Basic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03. iOS/3-2. Swift/3-2-1. 문법/01. 용어 정리.md",
+                "file": "03. iOS/3-1. Xcode/3-1-0. Program/01.  Basic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03. iOS/3-2. Swift/3-2-1. 문법/01. 용어 정리.md"
+                "file": "03. iOS/3-1. Xcode/3-1-0. Program/01.  Basic.md"
               }
             }
           },
@@ -206,12 +206,15 @@
       "obsidian-custom-frames:Open Todoist": false
     }
   },
-  "active": "0b69cfa0610c9835",
+  "active": "0106de08ac6c30aa",
   "lastOpenFiles": [
+    "03. iOS/3-1. Xcode/3-1-0. Program",
     "03. iOS/3-2. Swift/3-2-1. 문법/04. Data type.md",
+    "03. iOS/3-1. Xcode/3-1-0. Program/01.  Basic.md",
+    "03. iOS/3-1. Xcode/3-1-1. Interface./01. 용어 정리.md",
+    "03. iOS/3-2. Swift/3-2-1. 문법/01. 용어 정리.md",
     "03. iOS/3-2. Swift/3-2-1. 문법/03. 기초문법가이드.md",
     "03. iOS/3-2. Swift/3-2-1. 문법/02. Standard Library.md",
-    "03. iOS/3-2. Swift/3-2-1. 문법/01. 용어 정리.md",
     "03. iOS/3-2. Swift/3-2-1. 문법/프로퍼티 옵저버.md",
     "03. iOS/3-2. Swift/3-2-1. 문법/07. for.md",
     "03. iOS/3-2. Swift/3-2-1. 문법/클로저.md",
@@ -234,10 +237,7 @@
     "02. Files manager/Template/Google Calendar_명령어 예시.md",
     "00. New Note/ㄹㅇㅎㅇㄹㄴㅎ.md",
     "무제 파일.canvas",
-    "01. Daily Notes/ Week 3.md",
-    "02. Files manager/Attachment File/EEE.md",
     "00. New Note",
-    "01. Daily Notes/Interface.md",
     "02. Files manager/Attachment File",
     "10. ETC./iTerm2.",
     "10. ETC./GitHub",
