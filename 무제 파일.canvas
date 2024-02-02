@@ -4,14 +4,16 @@
 		{"id":"275da8cb3d591e94","x":-120,"y":40,"width":320,"height":70,"type":"text","text":"# \u001d**나태한 삶을 바**꾸기"},
 		{"id":"fa97dfa67815c3cb","x":260,"y":-420,"width":250,"height":60,"type":"text","text":"# 개발 공부 하기"},
 		{"id":"27c7908bf06c4b70","x":-700,"y":-40,"width":300,"height":420,"type":"text","text":"1. 집에서 할 수 있는 것 부터 \n2. 옥상과 방을 활용\n3. 리뷰 or 작업기\n4. 나래이션 \n5. 편집은 간단한 툴로\n6. 채널명은 바꾸는게 좋을듯\n\n"},
-		{"id":"32fbf074d2516816","x":412,"y":-100,"width":288,"height":600,"type":"text","text":"1. 9 to 9\n2. 차근 차근 하루 할당량 \n3. 옵시디언 노트 저장\n4. 과제등 실질적인 구동을 목표로"},
-		{"id":"772085d6dd52fe4c","x":-788,"y":-880,"width":568,"height":535,"type":"text","text":"# 방 (책상) 주리한?\n카메라 거치 앵글 삼각대 \n마이크 연결\n데스크 셋업 및 애플 관련 및 꿀템 키보드 리뷰어\n\n# 캠  ( 주편한 ) 일상\n1. 코드 윗미 등..거치캠\n2. 유튜브 라이브 혹은 녹화\n\n- 책상에 앉는 것 / 차에 타는것 등..\n- 공부하는것\n- 밥 먹거나 카페 가는 것\n- 통화 하거나 대화하는거?\n- 새로 알게된 도움이 되는 루틴 소개 \n(옵시디언,아이젠하워,뭐 등등)\n- 무파사 st 잡담 (주제 미리 생각하기)\n"}
+		{"id":"32fbf074d2516816","x":412,"y":-100,"width":288,"height":600,"type":"text","text":"1. 9 to 9\n2. 차근 차근 하루 할당량 \n3. 옵시디언 노트 저장 (TIL)\n4. 과제등 실질적인 구동을 목표로"},
+		{"id":"772085d6dd52fe4c","x":-788,"y":-880,"width":568,"height":535,"type":"text","text":"# 방 (책상) 주리한?\n카메라 거치 앵글 삼각대 \n마이크 연결\n데스크 셋업 및 애플 관련 및 꿀템 키보드 리뷰어\n\n# 캠  ( 주편한 ) 일상\n1. 코드 윗미 등..거치캠\n2. 유튜브 라이브 혹은 녹화\n\n- 책상에 앉는 것 / 차에 타는것 등..\n- 공부하는것\n- 밥 먹거나 카페 가는 것\n- 통화 하거나 대화하는거?\n- 새로 알게된 도움이 되는 루틴 소개 \n(옵시디언,아이젠하워,뭐 등등)\n- 무파사 st 잡담 (주제 미리 생각하기)\n"},
+		{"id":"0514378e9399a60c","x":-120,"y":-880,"width":300,"height":280,"type":"text","text":"# 스케줄\n\n주에 1회는 업로드 하면 좋겠다.\n자기전에 편집 하면 좋겠네\n하루에 30분만이라도 하면 될듯\n채널이 2개니까 와리가리?\n영상미 집어치워 그냥 날것\n나중에 돈주고 맡기자"}
 	],
 	"edges":[
 		{"id":"454b83d4a59dcfbf","fromNode":"275da8cb3d591e94","fromSide":"top","toNode":"fa97dfa67815c3cb","toSide":"bottom"},
 		{"id":"c652b1939e407117","fromNode":"275da8cb3d591e94","fromSide":"top","toNode":"e4a564ba10bf8baf","toSide":"bottom"},
 		{"id":"68c146bd41129656","fromNode":"e4a564ba10bf8baf","fromSide":"bottom","toNode":"27c7908bf06c4b70","toSide":"top"},
 		{"id":"746ba1ce207e3d83","fromNode":"fa97dfa67815c3cb","fromSide":"bottom","toNode":"32fbf074d2516816","toSide":"top"},
-		{"id":"4bc737c0736c1815","fromNode":"e4a564ba10bf8baf","fromSide":"top","toNode":"772085d6dd52fe4c","toSide":"bottom"}
+		{"id":"4bc737c0736c1815","fromNode":"e4a564ba10bf8baf","fromSide":"top","toNode":"772085d6dd52fe4c","toSide":"bottom"},
+		{"id":"ade91817ebce1346","fromNode":"e4a564ba10bf8baf","fromSide":"right","toNode":"0514378e9399a60c","toSide":"left"}
 	]
 }
