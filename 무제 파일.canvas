@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"e4a564ba10bf8baf","x":-506,"y":-236,"width":306,"height":63,"type":"text","text":"# 유튜브 시작 하기"},
+		{"id":"275da8cb3d591e94","x":-120,"y":40,"width":320,"height":70,"type":"text","text":"# \u001d**나태한 삶을 바**꾸기"},
+		{"id":"fa97dfa67815c3cb","x":260,"y":-420,"width":250,"height":60,"type":"text","text":"# 개발 공부 하기"},
+		{"id":"27c7908bf06c4b70","x":-700,"y":-40,"width":347,"height":420,"type":"text","text":"집에서 할 수 있는 것 부터 \n옥상과 방을 활용\n리뷰 or 작업기\n나래이션 \n편집은 간단한 툴로\n채널명은 바꾸는게 좋을듯\n\n"}
+	],
+	"edges":[
+		{"id":"454b83d4a59dcfbf","fromNode":"275da8cb3d591e94","fromSide":"top","toNode":"fa97dfa67815c3cb","toSide":"bottom"},
+		{"id":"c652b1939e407117","fromNode":"275da8cb3d591e94","fromSide":"top","toNode":"e4a564ba10bf8baf","toSide":"bottom"},
+		{"id":"68c146bd41129656","fromNode":"e4a564ba10bf8baf","fromSide":"bottom","toNode":"27c7908bf06c4b70","toSide":"top"}
+	]
+}
